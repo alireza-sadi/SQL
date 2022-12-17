@@ -23,7 +23,7 @@
 `create database    DATABASE_NAME;`
 
 - for delete database type this command :
-`drop database DATABASE_NAME;`
+    `drop database DATABASE_NAME;`
 
 - after that can see your databases as a list by this command
 `show databases;`
