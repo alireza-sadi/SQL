@@ -81,4 +81,4 @@ Here it is a summery to how create database : [Example](https://github.com/alire
 - Select
     - can select anu column that want to see
 
-    `select COLUMN_NAME,COLUMN_NAME from TABLE_NAME`[example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file4.sql)
+    `select COLUMN_NAME,COLUMN_NAME from TABLE_NAME` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file4.sql)
