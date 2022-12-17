@@ -53,9 +53,19 @@ create table TABLE-NAME(
 
 ```
 
-Now,  insert row in table:
+you can see Data Type in [here](https://github.com/alireza-sadi/SQL/blob/main/Concepts/SQL%20Data%20Types.md).
+
+Now, insert row in table:
 
 ```
 insert into   TABLE_NAME(column_1,column_2,column_3)
 values(value_1,value_2,value_3);
 ```
+
+And can see table with this command :
+
+`select * from TABLE_NAME;`
+
+Here it is a summery to how create database.
+
+In below , I add some heading and make example for them.
