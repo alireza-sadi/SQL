@@ -52,6 +52,13 @@ create table TABLE-NAME(
 
 ```
 
+Now, it's how to insert row in table:
+
+```
+insert into   TABLE_NAME(column_1,column_2,column_3)
+values(value_1,value_2,value_3);
+```
+
 <details><summary>Example</summary>
 
 create database test;
@@ -59,9 +66,9 @@ create database test;
 use test;
 
 create table books(
-    ID integer unique,
-    title varchar(100),
-    price int
+ID integer unique,
+title varchar(100),
+price int
 );
 
 </details>
