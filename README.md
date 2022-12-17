@@ -1,3 +1,3 @@
 # SQL
 
-## install Maria DB/My SQL
+*install Maria DB/My SQL
