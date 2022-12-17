@@ -8,9 +8,9 @@
 
 2. open *MY SQL Client* in your system.
 
---it will ask you for a password that you set in installition wizard.
+- it will ask you for a password that you set in installition wizard.
 
-if it don't ask you can type this command to acces your root 
+* if it don't ask you can type this command to acces your root 
 `mysql -u root -p`
 
 ### Let's start
