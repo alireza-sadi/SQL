@@ -1,5 +1,5 @@
 ## optional attributes for each column in SQL Tables
-
+|---------------| |-------------------|
 | NOT NULL | Each row must contain a value for that column, null values are not allowed |
 | DEFAULT value | Set a default value that is added when no other value is passed |
 | UNSIGNED | Used for number types, limits the stored data to positive numbers and zero |
