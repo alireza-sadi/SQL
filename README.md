@@ -55,6 +55,8 @@ create table TABLE-NAME(
 
 you can see Data Type in [here](https://github.com/alireza-sadi/SQL/blob/main/Concepts/SQL%20Data%20Types.md).
 
+You can see Optional attr in [here](https://github.com/alireza-sadi/SQL/blob/main/Concepts/Optional%20attr.md).
+
 Now, insert row in table:
 
 ```
