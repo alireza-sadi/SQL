@@ -53,6 +53,7 @@ create table TABLE-NAME(
 ```
 
 <details><summary>Example</summary>
+```
 create database test;
 use test;
 create table books(
@@ -60,4 +61,5 @@ create table books(
     title varchar(100),
     price int
 );
+```
 </details>
