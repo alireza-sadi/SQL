@@ -74,5 +74,7 @@ Here it is a summery to how create database :
 
 ## Headings
 
-- Update
+- Update <sub>
+[example]()
+</sub>
      - `update TABLE_NAME  set    COLUMN_TITLE = value;`
