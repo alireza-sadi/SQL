@@ -75,4 +75,4 @@ Here it is a summery to how create database :
 ## Headings
 
 - Update
-- - `update TABLE_NAME  set    COLUMN_TITLE = value;`
+     - `update TABLE_NAME  set    COLUMN_TITLE = value;`
