@@ -70,7 +70,7 @@ And can see table with this command :
 
 Here it is a summery to how create database.
 
-[Example]()
+[Example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file1.sql)
 
 ## Headings
 
