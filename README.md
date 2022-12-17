@@ -19,6 +19,7 @@
  At first need to create a database.
 
 - for that , should type this command :
+
 `create database    DATABASE_NAME;`
 
 - for delete database type this command :
