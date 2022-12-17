@@ -5,6 +5,7 @@
 1. install Maria DB/My SQL ([Maria DB Download Page](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.10.2&os=windows&cpu=x86_64&pkg=msi&m=aliyun))
 
 :warning: remember your password and database port for future.
+
 :warning: If you want to type arabic/persian in your databases you should select the utf-8 in installition wizard.
 
 2. open _MY SQL Client_ in your system.
@@ -58,17 +59,3 @@ Now,  insert row in table:
 insert into   TABLE_NAME(column_1,column_2,column_3)
 values(value_1,value_2,value_3);
 ```
-
-<details><summary>Example</summary>
-
-create database test;
-
-use test;
-
-create table books(
-ID integer unique,
-title varchar(100),
-price int
-);
-
-</details>
