@@ -52,7 +52,7 @@ create table TABLE-NAME(
 
 ```
 
-Now, it's how to insert row in table:
+Now,  insert row in table:
 
 ```
 insert into   TABLE_NAME(column_1,column_2,column_3)
