@@ -1,4 +1,6 @@
 ## optional attributes for each column in SQL Tables
+
+| Optional Attributes|  Description | 
 |--------------- | -------------------|
 | NOT NULL | Each row must contain a value for that column, null values are not allowed |
 | DEFAULT value | Set a default value that is added when no other value is passed |
