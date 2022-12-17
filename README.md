@@ -77,3 +77,5 @@ Here it is a summery to how create database :
 - Update 
     - `update TABLE_NAME  set    COLUMN_TITLE = value;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file2.sql)
 
+- Where
+    - `update TABLE_NAME  set    COLUMN_TITLE = value where CONDITION;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file3.sql)
