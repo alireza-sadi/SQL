@@ -68,9 +68,7 @@ And can see table with this command :
 
 `select * from TABLE_NAME;`
 
-Here it is a summery to how create database :
-
-[Example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file1.sql)
+Here it is a summery to how create database : [Example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file1.sql)
 
 ## Headings
 
@@ -79,3 +77,8 @@ Here it is a summery to how create database :
 
 - Where
     - `update TABLE_NAME  set    COLUMN_TITLE = value where CONDITION;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file3.sql)
+
+- Select
+    - can select anu column that want to see
+
+    `select COLUMN_NAME,COLUMN_NAME from TABLE_NAME`[example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file4.sql)
