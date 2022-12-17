@@ -53,13 +53,15 @@ create table TABLE-NAME(
 ```
 
 <details><summary>Example</summary>
-```
+
 create database test;
+
 use test;
+
 create table books(
     ID integer unique,
     title varchar(100),
     price int
 );
-```
+
 </details>
