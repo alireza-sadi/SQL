@@ -28,3 +28,10 @@ after that   can see your databases as a list by this command
 
 for that,  should type this command `use     DATABASE_NAME; `
 
+- At third , need to create tables for each database
+
+use this command to create table :
+`create table TABLE-NAME(
+    COLUMN-TITLE  DATA-TYPES OPTIONAL-ATTRIBUTES,
+    
+    `
