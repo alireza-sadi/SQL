@@ -11,7 +11,7 @@
 
 - it will ask for a password that you set in installition wizard.
 
-- if it don't ask ; can type this command to acces your root
+- if it don't ask ; can type this command to acces your root :
   
   `mysql -u root -p`
 
@@ -21,19 +21,19 @@
 
 - for that , should type this command :
 
-`create database    DATABASE_NAME;`
+- `create database    DATABASE_NAME;`
 
 - for delete database type this command :
 
 `drop database DATABASE_NAME;`
 
-- after that can see your databases as a list by this command
+- after that can see your databases as a list by this command :
 
 `show databases;`
 
  next thing we have to do , use a database as main database.
 
-- for that, should type this command 
+- for that, should type this command :
 
 `use     DATABASE_NAME; `
 
