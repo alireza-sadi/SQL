@@ -12,16 +12,16 @@
 - it will ask for a password that you set in installition wizard.
 
 - if it don't ask ; can type this command to acces your root :
-  
+
   `mysql -u root -p`
 
 ### Let's start :smiley:
 
- At first need to create a database.
+At first need to create a database.
 
 - for that , should type this command :
 
-- `create database    DATABASE_NAME;`
+`create database    DATABASE_NAME;`
 
 - for delete database type this command :
 
@@ -31,14 +31,33 @@
 
 `show databases;`
 
- next thing we have to do , use a database as main database.
+next thing we have to do , use a database as main database.
 
 - for that, should type this command :
 
 `use     DATABASE_NAME; `
 
- At third , need to create tables for each database
+At third , need to create tables for each database
 
 - use this command to create table :
 
-`create table TABLE-NAME(COLUMN-TITLE DATA-TYPES OPTIONAL-ATTRIBUTES);`
+```
+create table TABLE-NAME(
+    COLUMN-TITLE DATA-TYPES OPTIONAL-ATTRIBUTES,
+    COLUMN-TITLE DATA-TYPES OPTIONAL-ATTRIBUTES,
+    .
+    .
+    .
+    COLUMN-TITLE DATA-TYPES OPTIONAL-ATTRIBUTES);
+
+```
+
+<details><summary>Example</summary>
+create database test;
+use test;
+create table books(
+    ID integer unique,
+    title varchar(100),
+    price int
+);
+</details>
