@@ -75,7 +75,5 @@ Here it is a summery to how create database :
 ## Headings
 
 - Update 
+    - `update TABLE_NAME  set    COLUMN_TITLE = value;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file2.sql)
 
-    - `update TABLE_NAME  set    COLUMN_TITLE = value;`<sub>
-[example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file2.sql)
-</sub>
