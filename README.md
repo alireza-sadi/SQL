@@ -68,10 +68,11 @@ And can see table with this command :
 
 `select * from TABLE_NAME;`
 
-Here it is a summery to how create database.
+Here it is a summery to how create database :
 
 [Example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file1.sql)
 
 ## Headings
 
-
+- Update
+- - `update TABLE_NAME  set    COLUMN_TITLE = value;`
