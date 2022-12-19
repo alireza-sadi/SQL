@@ -72,13 +72,16 @@ Here it is a summery to how create database : [Example](https://github.com/alire
 
 ## Headings
 
-- Update
+- Update :
 
   - `update TABLE_NAME  set    COLUMN_TITLE = value;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file2.sql)
 
-- Where
+- Where :
 
   - `update TABLE_NAME  set    COLUMN_TITLE = value where CONDITION;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file3.sql)
 
-- Select
+- Select :
+
+  -`select * from TABLE_NAME;`
+
   - `select COLUMN_NAME from TABLE_NAME;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file4.sql)
