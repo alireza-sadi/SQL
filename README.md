@@ -82,6 +82,6 @@ Here it is a summery to how create database : [Example](https://github.com/alire
 
 - Select :
 
-  -`select * from TABLE_NAME;`
+  - `select * from TABLE_NAME;`
 
   - `select COLUMN_NAME from TABLE_NAME;` : [example](https://github.com/alireza-sadi/SQL/blob/main/Concepts/file4.sql)
