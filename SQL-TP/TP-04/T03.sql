@@ -1,0 +1,24 @@
+DROP TABLE IF EXISTS Users;
+CREATE TABLE Users(
+    ID      INT             NOT NULL    PRIMARY KEY AUTO_INCREMENT,
+    Name    VARCHAR(200)
+);
+
+ALTER TABLE Users AUTO_INCREMENT=3000;
+
+INSERT INTO Users VALUES (NULL, "Mohsen");
+INSERT INTO Users VALUES (NULL, "Narges");
+INSERT INTO Users VALUES (NULL, "Marges");
+INSERT INTO Users VALUES (NULL, "Raha");
+INSERT INTO Users VALUES (NULL, "Arsin");
+
+SELECT LAST_INSERT_ID() FROM Users LIMIT 1;
+SELECT * FROM Users;
+
+SELECT ID FROM Users WHERE Name="Narges";
+
+SELECT ID,Name FROM Users WHERE Name LIKE "_a_ges";
+SELECT ID,Name FROM Users WHERE Name LIKE "%ges";
+
+CREATE INDEX mohsen_idx ON Users(Name);
+ALTER TABLE Users DROP INDEX mohsen_idx;
